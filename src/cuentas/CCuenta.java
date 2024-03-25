@@ -1,5 +1,13 @@
 package cuentas;
+/**
+ * La clase CCuenta permite consultar los datos de una cuenta bancaria
+ */
 
+
+/**
+ * 
+ * @author Jesus Iglesias
+ */
 public class CCuenta {
 
     /**
